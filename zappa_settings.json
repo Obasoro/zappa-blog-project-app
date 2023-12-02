@@ -3,7 +3,7 @@
         "aws_region": "us-east-1",
         "django_setting": "blog_project.setting",
         "project_name": "blog_project",
-        "runtime": "python3.11",
+        "runtime": "python3.11.6",
         "s3_bucket": "zappa-blog-project-kunle"
     }
 }
