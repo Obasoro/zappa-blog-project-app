@@ -39,3 +39,7 @@ chmod +x start-server.sh
 If you encounter any issues, please consult the [Django documentation](https://docs.djangoproject.com/) for further guidance.
 
 At this point, what you have with you is mainly a django project.
+
+##### Process for Zappa application
+
+![secret-manager](<Screenshot 2023-12-02 at 16.54.33.png>)
